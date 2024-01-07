@@ -6,7 +6,7 @@
 ## About me
 
 - 🔭 I’m currently working on [Gravity](https://gravity-01.web.app) (side project)
-- 🌱 I’m currently learning **programming**, espeicially about React.js.
+- 🌱 I’m currently **programming**, espeicially about React.js.
 - 📫 How to reach me:[E-mail](mailto:jolina4526@gmail.com) [LinkedIn](http://www.linkedin.com/in/yung-chiao-liang)
 - 😄 Pronouns: A gummy addict (🍬 always gummy crazy!)
 - ⚡ Long-term goal: Become much more proficient in both programming and design.
