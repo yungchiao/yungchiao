@@ -5,8 +5,10 @@
 
 ## About me
 
-- 🔭 I’m currently working on [Gravity](https://gravity-01.web.app) (side project)
-- 🌱 I’m currently **programming**, espeicially about React.js.
+- 💻 CaFe - A privacy-preserving federated learning framework designed to enable distributed model training while keeping sensitive data localized.
+- 🔭 I developed [Gravity](https://gravity-01.web.app) (side project)
+- 🌱 I’m currently **programming**, especially about Python and React.js.
+- 🛳 I'm currently working with cloud tools, with a focus on Docker and Kubernetes.
 - 📫 How to reach me:[E-mail](mailto:jolina4526@gmail.com) [LinkedIn](http://www.linkedin.com/in/yung-chiao-liang)
 - 😄 Pronouns: A gummy addict (🍬 always gummy crazy!)
 - ⚡ Long-term goal: Become much more proficient in both programming and design.
