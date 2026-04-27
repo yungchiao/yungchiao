@@ -15,6 +15,7 @@
 ## Develop whith
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue](https://img.shields.io/badge/Vue-36A66C?style=for-the-badge&logo=vue&logoColor=36A66C)
 ![Python](https://img.shields.io/badge/Python-F3CE39?style=for-the-badge&logo=Python&logoColor=blue)
 ![Kubernates](https://img.shields.io/badge/Kubernates-blue?style=for-the-badge&logo=Kubernates&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=Docker&logoColor=white)
